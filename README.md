@@ -1,6 +1,6 @@
 <h1> Hello World! 🌎 </h1>
 
-<h2> 👨‍💻 My name is Matias i’m from Argentina living in Cordoba City, travelling around the world for knowledge, culture and work </h2>
+<h2> 👨‍💻 My name is Matias i’m from Argentina living in Foz do Iguazu - Brasil, travelling around the world for knowledge, culture and work </h2>
 <h3> 🔭 I’m currently working on Freelance Projects as a Software Engineer. Increasing my learning to become a full Software Engineer</h3>
 <h3> 🌱 I’m currently learning Go & Java.</h3>
 
