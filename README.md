@@ -1,9 +1,8 @@
 <h1> Hello World! 🌎 </h1>
 
 <h2> 👨‍💻 My name is Matias i’m from Argentina living in Cordoba City, travelling around the world for knowledge, culture and work </h2>
-<h3> 🔭 I’m currently working on Telecom Argentina as Network Engineer. Increasing my learning to become a full Software Engineer</h3>
+<h3> 🔭 I’m currently working on Freelance Projects as a Software Engineer. Increasing my learning to become a full Software Engineer</h3>
 <h3> 🌱 I’m currently learning Go & Java.</h3>
-<h3> 🤔 I’m looking for help with ReactJs. <img src="icons/react.png"></h3>
 
 ---
 
@@ -32,6 +31,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-007195?style=for-the-badge&logo=mysql&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=Python&logoColor=yellow)
+![JAVA](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Java&logoColor=white)
 
 <h2> Known Frameworks and Libraries </h2>
 
