@@ -31,7 +31,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-007195?style=for-the-badge&logo=mysql&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=Python&logoColor=yellow)
-![JAVA](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Java&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Matrix&logoColor=white)
 
 <h2> Known Frameworks and Libraries </h2>
 
