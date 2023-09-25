@@ -1,8 +1,8 @@
 <h1> Hello World! 🌎 </h1>
 
-<h2> 👨‍💻 My name is Matias i’m from Argentina living in Belem - Brasil, travelling around the world for knowledge, culture and work </h2>
-<h3> 🔭 I’m currently working at Wipro as a Senior Software Engineer using Java with Spring. Increasing my learning to become a full Cloud Architect</h3>
-<h3> 🌱 I’m currently learning Go.</h3>
+<h2> 👨‍💻 My name is Matias i’m from Argentina expecting to live in Scotland, travelling around the world for knowledge, culture and work </h2>
+<h3> 🔭 I’m currently working at Wipro as a Senior Software Engineer with Specialist as a Cloud Architect and DevOps Engineer using Java with Spring</h3>
+<h3> 🌱 I’m currently learning Rust.</h3>
 
 ---
 
