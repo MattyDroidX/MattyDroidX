@@ -254,7 +254,18 @@ Partnerships and collaborations are welcome — research institutes, biotech tea
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattydroidx&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MattyDroidX&show_icons=true&hide_border=true&cache_seconds=86400" />
-</div>
+## GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MattyDroidX&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MattyDroidX&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MattyDroidX&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://raw.githubusercontent.com/MattyDroidX/MattyDroidX/main/github-metrics.svg" />
+
+<img src="https://raw.githubusercontent.com/MattyDroidX/MattyDroidX/main/images/statistics.svg" />
+
+<img src="https://raw.githubusercontent.com/MattyDroidX/MattyDroidX/main/assets/snake.svg" />
